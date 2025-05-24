@@ -1,0 +1,43 @@
+# Byte-compiled / optimized / DLL files
+*.py[cod]
+*.class
+
+# Caches and checkpoints
+__pycache__/
+.ipynb_checkpoints/
+*/.ipynb_checkpoints/*
+.mypy_cache/
+.nilearn_cache/
+*/nilearn_cache/*
+.nilearn_cache/
+.cache
+
+# Virtual environments
+env/
+.env
+.venv/
+.vscode/
+
+# Data files
+data/
+weights/
+*.log
+*.npy
+*.pth
+*.pt
+*.pkl
+*.dat
+*.gz
+*.pdf
+*.json
+
+# Media files
+*.mp4
+*.MP4
+*.jpg
+*.png
+
+# Various file types
+*.txt
+*.csv
+# *.ipynb
